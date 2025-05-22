@@ -31,3 +31,7 @@ button {
 button:hover {
   background-color: #2980b9;
 }
+body {
+  background-color: #f5f5f5; /* fundo */
+  font-family: Arial, sans-serif; / CeC /
+  color: #333; / CeC Vendas /
